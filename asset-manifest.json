@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jvjereza/boysproject/static/css/main.aea90ad1.css",
+    "main.js": "/jvjereza/boysproject/static/js/main.1aafb4b5.js",
+    "index.html": "/jvjereza/boysproject/index.html",
+    "main.aea90ad1.css.map": "/jvjereza/boysproject/static/css/main.aea90ad1.css.map",
+    "main.1aafb4b5.js.map": "/jvjereza/boysproject/static/js/main.1aafb4b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aea90ad1.css",
+    "static/js/main.1aafb4b5.js"
+  ]
+}
